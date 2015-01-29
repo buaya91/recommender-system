@@ -1,0 +1,10 @@
+# private data file #
+*.csv
+*.png
+
+# cache #
+*.pyc
+
+# public key #
+*.pub
+

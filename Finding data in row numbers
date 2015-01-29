@@ -1,0 +1,11 @@
+import csv
+
+#csv_filename is the file name to refer to
+#n is the number of rows
+
+def get_line_from_filename(csv_filename, n):
+    with open(csv_filename) as f:
+        for i, line in enumerate(csv.reader(f, delimiter=','), 1):
+            if i == n:
+                return line
+				
