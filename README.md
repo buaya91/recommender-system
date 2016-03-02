@@ -1,12 +1,6 @@
 # README #
 This application is a recommender system uses collaborative filtering
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
 ### How do I get set up? ###
 
 * Summary of set up
@@ -28,14 +22,3 @@ This application depends on
     1. Scipy
     1. Pandas
     1. sklearn
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
